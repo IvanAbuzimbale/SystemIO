@@ -1,0 +1,7 @@
+C:\Users\ivanm\source\repos\KlasaFile\KlasaFile\bin\Debug\KlasaFile.exe.config
+C:\Users\ivanm\source\repos\KlasaFile\KlasaFile\bin\Debug\KlasaFile.exe
+C:\Users\ivanm\source\repos\KlasaFile\KlasaFile\bin\Debug\KlasaFile.pdb
+C:\Users\ivanm\source\repos\KlasaFile\KlasaFile\obj\Debug\KlasaFile.csproj.CoreCompileInputs.cache
+C:\Users\ivanm\source\repos\KlasaFile\KlasaFile\obj\Debug\KlasaFile.exe
+C:\Users\ivanm\source\repos\KlasaFile\KlasaFile\obj\Debug\KlasaFile.pdb
+C:\Users\ivanm\source\repos\KlasaFile\KlasaFile\obj\Debug\KlasaFile.csprojAssemblyReference.cache
